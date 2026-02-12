@@ -45,7 +45,8 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
   <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Marques1617&theme=black-ice&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
       <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques1617&hide=HTML&langs_count=2&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+        <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques1617&langs_count=5&layout=compact&theme=react&border_radius=10" 
        alt="Top Languages" 
        style="margin-top: 10px; width: 325px;" />
   
