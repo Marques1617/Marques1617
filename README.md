@@ -10,13 +10,13 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
 
 - 💻 Building Spring Boot applications with PostgreSQL and Docker
   
-<h3 align= "left"> ⚡ Beyond Technology </h3>
+<h3 align= "left"> ⚡ Beyond Technology: </h3>
 
 - I enjoy staying active through gym sessions and running, and I’m equally passionate about expanding my mind through personal development. I consistently seek out new skills and habits to apply in my daily life, with a strong commitment to lifelong learning and continuous self-improvement. I’m also focused on strengthening my interpersonal and leadership abilities. 
 
 <h2 align="left">🛜 Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/joão-marques-0b1471362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joão-marques-0b1471362" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/joão-marques-0b1471362" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joão-marques-0b1471362" height="30" width="40" /></a>
 <a href="mailto:jpinhom@gmail.com">
     <img align="center" src="assets/email-logo.svg" alt="Email" height="30" width="40" />
 </a>
