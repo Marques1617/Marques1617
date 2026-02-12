@@ -13,7 +13,7 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/joão-marques-0b1471362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joão-marques-0b1471362" height="30" width="40" /></a>
 <a href="mailto:jpinhom@gmail.com">
-    <img align="center" src="assets/email-8-svgrepo-com.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="assets/email-logo.svg" alt="Email" height="30" width="40" />
 </a>
 </p>
 
