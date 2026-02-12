@@ -6,17 +6,16 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
 
 - 💬 Ask me about **Java, Docker, C, Python, SpringBoot, WebSockets, PostgreSQL**
 
-- 📫 Contacts
-- **www.linkedin.com/in/joão-marques-0b1471362**
-- **jpinhom@gmail.com**
-
-- ⚡ Beyond Technology
-  I enjoy staying active through gym sessions and running, and I’m equally passionate about expanding my mind through personal development. I consistently seek out new skills and habits to apply in my daily life, with a strong commitment to lifelong learning and continuous self-improvement. I’m also focused on strengthening my interpersonal and leadership abilities. 
+### - ⚡ Beyond Technology
+- I enjoy staying active through gym sessions and running, and I’m equally passionate about expanding my mind through personal development. I consistently seek out new skills and habits to apply in my daily life, with a strong commitment to lifelong learning and continuous self-improvement. I’m also focused on strengthening my interpersonal and leadership abilities. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Marques1617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Marques1617" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/joão-marques-0b1471362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joão-marques-0b1471362" height="30" width="40" /></a>
+
+<button onclick="window.location.href='mailto:jpinhom@gmail.com?subject=Hello&body=Hi there!'">
+    Email the Creator
+</button>
 </p>
 
 <h3 align="left"> 💻 Languages and Tools:</h3>
@@ -34,5 +33,6 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=for-the-badge"/>
   
 </p>
