@@ -38,5 +38,17 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
   <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=for-the-badge"/>
-  
 </p>
+
+<h2 align="left"> ⚡️ Stats ⚡️</h2>
+<br>
+  <div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Marques1617&theme=black-ice&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    
+  </div>
+
+
+
+
+
+
