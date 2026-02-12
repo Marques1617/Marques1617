@@ -1,4 +1,4 @@
-# Hi 👋, I'm João Marques
+<h1 align="center"> Hi 👋, I'm João Marques </h1>
 
 I am a Computer Engineering graduate from Coimbra with a strong focus on backend software development. I have experience building and maintaining applications using Spring Boot and Docker Compose, supported by tools and technologies such as PostgreSQL, Postman, and Linux-based environments. I enjoy solving complex technical challenges, with particular interests in system security, framework optimization, and the development of scalable and maintainable systems.
 
