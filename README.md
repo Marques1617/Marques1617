@@ -1,12 +1,17 @@
 # Hi 👋, I'm João Marques
 
+I am a Computer Engineering graduate from Coimbra with a strong focus on backend software development. I have experience building and maintaining applications using Spring Boot and Docker Compose, supported by tools and technologies such as PostgreSQL, Postman, and Linux-based environments. I enjoy solving complex technical challenges, with particular interests in system security, framework optimization, and the development of scalable and maintainable systems.
+
 ### Backend Development 
 
 - 💬 Ask me about **Java, Docker, C, Python, SpringBoot, WebSockets, PostgreSQL**
 
-- 📫 How to reach me **www.linkedin.com/in/joão-marques-0b1471362**
+- 📫 Contacts
+- **www.linkedin.com/in/joão-marques-0b1471362**
+- **jpinhom@gmail.com**
 
-- ⚡ Fun fact **I enjoy staying active through gym sessions and running, and I’m equally passionate about expanding my mind through personal development. I consistently seek out new skills and habits to apply in my daily life, with a strong commitment to lifelong learning and continuous self-improvement. I’m also focused on strengthening my interpersonal and leadership abilities. **
+- ⚡ Beyond Technology
+  I enjoy staying active through gym sessions and running, and I’m equally passionate about expanding my mind through personal development. I consistently seek out new skills and habits to apply in my daily life, with a strong commitment to lifelong learning and continuous self-improvement. I’m also focused on strengthening my interpersonal and leadership abilities. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
