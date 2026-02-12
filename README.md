@@ -4,14 +4,15 @@
 
 I am a Computer Engineering graduate from Coimbra with a strong focus on backend software development. I have experience building and maintaining applications using Spring Boot and Docker Compose, supported by tools and technologies such as PostgreSQL, Postman, and Linux-based environments. I enjoy solving complex technical challenges, with particular interests in system security, framework optimization, and the development of scalable and maintainable systems.
 
-<h2 align="left"> 🚀 What I'm Up To: </h3>
+<h2 align="left"> 🚀 What I'm Up To: </h2>
 - ☁️ Learning about AWS
+
 - 💻 Building Spring Boot applications with PostgreSQL and Docker
   
 ### - ⚡ Beyond Technology
 - I enjoy staying active through gym sessions and running, and I’m equally passionate about expanding my mind through personal development. I consistently seek out new skills and habits to apply in my daily life, with a strong commitment to lifelong learning and continuous self-improvement. I’m also focused on strengthening my interpersonal and leadership abilities. 
 
-<h3 align="left">🛜 Connect with me:</h3>
+<h2 align="left">🛜 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/joão-marques-0b1471362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joão-marques-0b1471362" height="30" width="40" /></a>
 <a href="mailto:jpinhom@gmail.com">
@@ -19,7 +20,7 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
 </a>
 </p>
 
-<h3 align="left"> 💻 Languages and Tools:</h3>
+<h2 align="left"> 💻 Languages and Tools:</h2>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
