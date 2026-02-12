@@ -4,9 +4,9 @@
 
 I am a Computer Engineering graduate from Coimbra with a strong focus on backend software development. I have experience building and maintaining applications using Spring Boot and Docker Compose, supported by tools and technologies such as PostgreSQL, Postman, and Linux-based environments. I enjoy solving complex technical challenges, with particular interests in system security, framework optimization, and the development of scalable and maintainable systems.
 
-<h3 align="left"> 🚀 What I'm Up To: </h3>
-  - ☁️ Learning about AWS
-  - 💻 Building Spring Boot applications with PostgreSQL and Docker
+<h2 align="left"> 🚀 What I'm Up To: </h3>
+- ☁️ Learning about AWS
+- 💻 Building Spring Boot applications with PostgreSQL and Docker
   
 ### - ⚡ Beyond Technology
 - I enjoy staying active through gym sessions and running, and I’m equally passionate about expanding my mind through personal development. I consistently seek out new skills and habits to apply in my daily life, with a strong commitment to lifelong learning and continuous self-improvement. I’m also focused on strengthening my interpersonal and leadership abilities. 
