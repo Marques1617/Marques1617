@@ -9,6 +9,8 @@ I am a Computer Engineering graduate from Coimbra with a strong focus on backend
 - ☁️ Learning about AWS
 
 - 💻 Building Spring Boot applications with PostgreSQL and Docker
+
+- 🤖 Learning about Machine Learning 
   
 <h3 align= "left"> ⚡ Beyond Technology: </h3>
 
